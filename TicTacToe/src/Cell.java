@@ -1,3 +1,9 @@
+/**
+ * Name: Wiremu Te Moni 
+ * Student ID: 5115927
+ * Course Code: BIT504
+ * Assessment 2
+ */
 public class Cell {
     Player content; // Content of the cell
     int row, col; // Row and column
