@@ -1,3 +1,9 @@
+/**
+ * Name: Wiremu Te Moni 
+ * Student ID: 5115927
+ * Course Code: BIT504
+ * Assessment 2
+ */
 public class Board {
     public static final int ROWS = 3; // Number of rows
     public static final int COLS = 3; // Number of columns
